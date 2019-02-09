@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
+
+
+
+.index{
+  position: relative;
+  z-index: 1;
+}
+
+.index1{
+  position: absolute;
+  top: 100%;
+  left:20%;
+  z-index: 100;
+}
+
+.thought {
+font-family: 'Special Elite', cursive;
+
+}

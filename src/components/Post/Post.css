@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Acme');
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Condensed');
+
+
+.post 
+{
+	position: relative;
+	height: auto;
+
+
+
+}
+.ad
+{
+	position: relative;
+}
+.title
+{   
+	font-family: 'Acme', sans-serif;
+
+}
+
+
+.description{
+	font-family: 'Encode Sans Condensed', sans-serif;
+
+}

@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
+
+
+
+.index{
+  position: relative;
+  top: 0%;
+  left: 0%;
+   z-index: 1;
+}
+
+.index1{
+  position: absolute;
+  top: 40%;
+  left: 25%;
+  z-index: 10000;
+ 
+}
+
+.thought {
+		font-family: 'Special Elite', cursive;
+	
+}
+
+.name {
+	font-family: 'Tangerine', cursive;
+   position: relative;
+   left: 50%;
+}
+
+
+
+.sofa {
+
+}
